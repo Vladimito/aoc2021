@@ -1,0 +1,1 @@
+/home/vladimito/Documents/aoc2021/day1/target/debug/day1: /home/vladimito/Documents/aoc2021/day1/input.txt /home/vladimito/Documents/aoc2021/day1/src/lib.rs /home/vladimito/Documents/aoc2021/day1/src/main.rs
